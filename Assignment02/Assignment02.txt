@@ -1,6 +1,4 @@
-Assignment 02
-due date: Mar 21, 2019
-
+Due: Mar 21, 2019
 [Submission]
 
 1. Write a python code, make a comment, and present results for each meaningful block of your code at Jupyter Notebook. 
