@@ -1,0 +1,25 @@
+Assignment 02
+due date: Mar 21, 2019
+
+[Submission]
+
+1. Write a python code, make a comment, and present results for each meaningful block of your code at Jupyter Notebook. 
+[New > Python 3]
+
+2. Export your Jupyter Notebook file as PDF file at Jupyter Notebook. 
+[Download as > PDF via LaTeX (.pdf)]
+
+3. Turn in your PDF file to the assignment at Google Classroom.
+[Add > file]
+
+**********
+
+[Taylor Approximation]
+
+1. Define a differentiable function that maps from real number to real number.
+2. Define a domain of the function.
+3. Plot the function.
+4. Select a point within the domain.
+5. Mark the selected point on the function.
+6. Define the first-order Taylor approximation at the selected point.
+7. Plot the Taylor approximation with the same domain of the original function.
