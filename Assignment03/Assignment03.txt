@@ -1,0 +1,12 @@
+3월 28일 오후 11:59 마감
+Assignment 03
+Byung-Woo Hong 3월 22일
+1. Write codes with detailed comments and present useful results at Jupyter Notebook.
+2. Export the Jupyter Notebook file as a PDF file.
+3. Submit the PDF file to Classroom.
+
+[Visualize average images]
+
+1. Load MNIST training dataset.
+2. Compute the average images for each label (digit) based on L2-norm.
+3. Visualize the average images.
